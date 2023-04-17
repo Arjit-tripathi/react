@@ -1,6 +1,29 @@
 body {
   
   margin: 0 auto;
+  background-color: #ffffff;
 
 }
+
+.navbar-expand-lg .navbar-nav .nav-link{
+font-size: medium;
+
+font-weight: 600;
+line-height: 4px;
+opacity: 1;
+padding: 36px 18px 34px;
+position: relative;
+text-transform: uppercase;
+}
+.about-us{
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+.contact-us{
+  
+  margin-bottom: 80px;
+  background: transparent center center/cover no-repeat scroll;
+  background-image:url('/public/image/bg2.jpg');
+}
+
 
