@@ -2,28 +2,53 @@ body {
   
   margin: 0 auto;
   background-color: #ffffff;
-
+  
 }
 
 .navbar-expand-lg .navbar-nav .nav-link{
-font-size: medium;
-
+/* font-size: medium;
 font-weight: 600;
-line-height: 4px;
-opacity: 1;
-padding: 36px 18px 34px;
-position: relative;
 text-transform: uppercase;
+opacity: 1; */
+/* padding: 36px 18px 34px;
+position: relative;
+line-height: 4px; */
+font-size: medium;
+    font-weight: 500;
+   
+    opacity: 1;
+    border: 1px dashed;
+    padding: 5px 8px;
+    margin: 4px;
+   
+
 }
-.about-us{
-  margin-top: 80px;
-  margin-bottom: 80px;
+.space{
+  margin-top: 50px;
+  margin-bottom: 20px;
 }
 .contact-us{
   
-  margin-bottom: 80px;
-  background: transparent center center/cover no-repeat scroll;
-  background-image:url('/public/image/bg2.jpg');
+   padding-top: 50px;
+  padding-bottom: 20px;
+ background: linear-gradient(#000000, rgba(0, 0, 0, 0.20)), transparent url('/public/image/bg0.jpg') center center/cover no-repeat scroll;
+  
 }
-
-
+.card{
+  margin-bottom: 20px;
+}
+.card:hover{
+  box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.5);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+h2{
+  font-size: xx-large;
+}
+h2.white{
+color: #ffffff;
+}
+svg {
+  vertical-align: middle;
+  margin: 20px;
+}

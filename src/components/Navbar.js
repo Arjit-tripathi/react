@@ -26,7 +26,7 @@ function Navbar() {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/">
+                <a className="nav-link" href="#about-us">
                   About Us
                 </a>
               </li>
@@ -37,17 +37,27 @@ function Navbar() {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/">
+                <a className="nav-link" href="#products">
                   Products
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/">
+                <a className="nav-link" href="#contact-us">
                   Contact Us
                 </a>
               </li>
+              <li className="nav-item">
+                <a className="nav-link" href="#our-clients">
+                  Our Clients
+                </a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link" href="#gallery">
+                  Gallery
+                </a>
+              </li>
             </ul>
-            <form className="d-flex" role="search">
+           {/* <form className="d-flex" role="search" method="post" action="https://www.google.com/search?">
               <input
                 className="form-control me-2"
                 type="search"
@@ -57,7 +67,7 @@ function Navbar() {
               <button className="btn btn-outline-success" type="submit">
                 Search
               </button>
-            </form> 
+            </form>   */}
           </div>
           </nav>
         </div>
