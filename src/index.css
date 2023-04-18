@@ -22,6 +22,9 @@ font-size: medium;
     margin: 4px;
    
 
+}.spaceb{
+  margin-top: 0px;
+  margin-bottom: 50px;
 }
 .space{
   margin-top: 50px;
@@ -52,3 +55,15 @@ svg {
   vertical-align: middle;
   margin: 20px;
 }
+
+
+.logoborder{
+  border: 1px solid #ddd;
+  margin: 10px;
+}
+.logoborder:hover{
+  border: 1px solid #ddd;
+  margin: 10px;
+  box-shadow: 1px 1px 1px 1px;
+}
+  
