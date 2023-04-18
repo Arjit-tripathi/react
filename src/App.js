@@ -11,12 +11,12 @@ function App() {
       <div>
         <Navbar />
         <HomeSlider/>
-        <AboutUs/>
-        <ContactUs/>
+        {/* <AboutUs/>
+        <ContactUs/> */}
       </div>
       
 
-      <div className='container gap-2 d-flex justify-content-center"'>
+      {/* <div className='container gap-2 d-flex justify-content-center"'>
         <MainSection
           title="Technology"
           src="https://th.bing.com/th/id/OIP.xZy01t2g2X1yYA_GaCG7zQHaEL?pid=ImgDet&rs=1"
@@ -34,7 +34,7 @@ function App() {
           src="https://th.bing.com/th/id/OIP.xZy01t2g2X1yYA_GaCG7zQHaEL?pid=ImgDet&rs=1"
           text="Cards support a wide variety of content, including images, text, list groups, links, and more. Below are examples of what’s supported."
         />
-      </div>
+      </div> */}
     </>
   );
 }
