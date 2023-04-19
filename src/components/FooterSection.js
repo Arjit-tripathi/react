@@ -274,7 +274,7 @@ function FooterSection() {
 
           <!-- Grid column --> */}
                   <div className="col-md-5 col-lg-4 ml-lg-0 text-center text-md-end">
-                    <a className=" btn-floating m-1 text-white" href="/">
+                    <a className=" btn-floating m-1 text-white" href="https://www.facebook.com/people/Mohit-Bhardwaj/pfbid0zt9TPLitBZPsuxeMav9yzRNsudnCxNPgHru6Ev5xWTfyFvdMox8ak1XZxskFdZnAl/?mibextid=ZbWKwL" target="_blank" rel="noreferrer">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         width="25"
@@ -287,7 +287,7 @@ function FooterSection() {
                       </svg>
                     </a>
 
-                    <a className=" btn-floating m-1 text-white" href="/">
+                    <a className=" btn-floating m-1 text-white" href="https://www.linkedin.com/in/mohitbhardwaj-40033621b" target="_blank" rel="noreferrer">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         width="25"
@@ -300,7 +300,7 @@ function FooterSection() {
                       </svg>
                     </a>
 
-                    <a className=" btn-floating m-1 text-white" href="/">
+                    <a className=" btn-floating m-1 text-white" href="/" target="_blank" rel="noreferrer">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         width="25"
@@ -313,7 +313,7 @@ function FooterSection() {
                       </svg>
                     </a>
 
-                    <a className=" btn-floating m-1 text-white" href="/">
+                    <a className=" btn-floating m-1 text-white" href="/" target="_blank" rel="noreferrer">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         width="25"
