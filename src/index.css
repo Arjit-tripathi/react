@@ -1,69 +1,95 @@
 body {
-  
+
   margin: 0 auto;
   background-color: #ffffff;
-  
+
 }
 
-.navbar-expand-lg .navbar-nav .nav-link{
-/* font-size: medium;
-font-weight: 600;
-text-transform: uppercase;
-opacity: 1; */
-/* padding: 36px 18px 34px;
-position: relative;
-line-height: 4px; */
-font-size: medium;
-    font-weight: 500;
-   
-    opacity: 1;
-    border: 1px dashed;
-    padding: 5px 8px;
-    margin: 4px;
-   
+.navbar-expand-lg .navbar-nav .nav-link {
+  font-size: medium;
+  font-weight: 500;
+  opacity: 1;
+  border: 1px dashed;
+  padding: 5px 15px;
+  margin: 4px;
+}
 
-}.spaceb{
+.spaceb {
   margin-top: 0px;
   margin-bottom: 50px;
 }
-.space{
-  margin-top: 50px;
-  margin-bottom: 20px;
-}
-.contact-us{
-  
-   padding-top: 50px;
+
+.space {
+  padding-top: 50px;
   padding-bottom: 20px;
- background: linear-gradient(#000000, rgba(0, 0, 0, 0.20)), transparent url('/public/image/bg0.jpg') center center/cover no-repeat scroll;
-  
 }
-.card{
+ .spaceproduct{ padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.contact-us {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  background: linear-gradient(#000000, rgba(0, 0, 0, 0.20)), transparent url('/public/image/bg0.jpg') center center/cover no-repeat scroll;
+
+}
+
+.card {
   margin-bottom: 20px;
+  min-height: 252px;
 }
-.card:hover{
+
+.card:hover {
   box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.5);
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
 }
-h2{
+
+h2 {
   font-size: xx-large;
 }
-h2.white{
-color: #ffffff;
+
+h2.white {
+  color: #ffffff;
 }
+
 svg {
   vertical-align: middle;
-  margin: 20px;
+  margin: 7px;
+  color: #fbae3e;
 }
 
+.textjustify {
+  text-align: justify;
+}
 
-.logoborder{
+.logoborder {
   border: 1px solid #ddd;
   margin: 10px;
 }
-.logoborder:hover{
+
+.logoborder:hover {
   border: 1px solid #ddd;
   margin: 10px;
   box-shadow: 1px 1px 1px 1px;
 }
+hr.linecenter{
+  text-align: center;
+  width: 200px;
+}
+.productbgcolor{
+background-color: #efefef5c;
+}
+a[href]:hover{
+  color: #fbae3e !important;;
+}
+
+/* .hr {
+  margin: 0 auto;
+  border-top: 3px dashed #fbae3e;
+   opacity: .9; 
+  width: 25%;
+  align-items: center;
+  position: center;
   
+} */
