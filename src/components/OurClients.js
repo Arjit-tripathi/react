@@ -8,32 +8,19 @@ function OurClients() {
         </div>
         <div className="row ">
           <div className="col-sm logoborder">
-            <img src="client/image1.png" alt="logo1" />
+            <img src="client/image1.png" alt="logo1"/>
           </div>
           <div className="col-sm logoborder">
-            <img src="client/image2.png" alt="logo2" />
+            <img src="client/image2.png" alt="logo2"/>
           </div>
           <div className="col-sm logoborder">
-            <img src="client/image3.png" alt="logo3" />
+            <img src="client/image3.png" alt="logo3"/>
           </div>
           <div className="col-sm logoborder">
-            <img src="client/image4.png" alt="logo4" />
+            <img src="client/image4.png" alt="logo4"/>
           </div>
         </div>
-        <div className="row">
-          <div className="col-sm logoborder">
-            <img src="client/image3.png" alt="logo1" />
-          </div>
-          <div className="col-sm logoborder">
-            <img src="client/image1.png" alt="logo2" />
-          </div>
-          <div className="col-sm logoborder">
-            <img src="client/image4.png" alt="logo3" />
-          </div>
-          <div className="col-sm logoborder">
-            <img src="client/image2.png" alt="logo4" />
-          </div>
-        </div>
+        
       </div>
     </>
   );

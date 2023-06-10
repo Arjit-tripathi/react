@@ -96,8 +96,8 @@ function ContactUs() {
                     <br />
                     09.00am to 5.00pm
                     <br />
-                    <a href="https://deluxe-cascaron-b10c1b.netlify.app">
-                      https://deluxe-cascaron-b10c1b.netlify.app
+                    <a href="https://parnikasolar.netlify.app/">
+                      hhttps://parnikasolar.netlify.app/
                     </a>
                   </p>
                 </div>

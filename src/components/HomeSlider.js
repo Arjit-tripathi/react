@@ -32,22 +32,22 @@ function HomeSlider() {
           <img src="image/slider01.jpg" className="d-block w-100" alt=".." />
 
           <div className="carousel-caption d-none d-md-block">
-            <h5>First slide label</h5>
-            <p>Some representative placeholder content for the first slide.</p>
+            <h5>A Global Leader in Smart Energy Technology.</h5>
+            <p>Parnika solar creates smart energy solutions that power our lives and drive future progress.</p>
           </div>
         </div>
         <div className="carousel-item">
           <img src="image/slider02.jpg" className="d-block w-100" alt=".." />
           <div className="carousel-caption d-none d-md-block">
-            <h5>Second slide label</h5>
-            <p>Some representative placeholder content for the second slide.</p>
+            <h5>Parnika Solar is India’s most trusted solar energy company.</h5>
+            <p>Parnika solar is a relatively superior brand compared to its peers with the lower pricing.</p>
           </div>
         </div>
         <div className="carousel-item">
           <img src="image/slider03.jpg" className="d-block w-100" alt=".." />
           <div className="carousel-caption d-none d-md-block">
-            <h5>Third slide label</h5>
-            <p>Some representative placeholder content for the third slide.</p>
+            <h5>Parnika Solar is best solar energy company.</h5>
+            <p>Parnika solar company is a provider of renewable energy solutions.</p>
           </div>
         </div>
       </div>
